@@ -1,0 +1,290 @@
+{
+    "serviceMenuList" : [{
+        "serviceMenuHi" : "자산",
+        "serviceMeunId" :  "HFS1",
+        "serviceMenuNm" :  "내 자산",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS1",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "자산",
+        "serviceMeunId" :  "HFS2",
+        "serviceMenuNm" :  "부동산",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS2",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "자산",
+        "serviceMeunId" :  "HFS3",
+        "serviceMenuNm" :  "자동차",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS3",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "자산",
+        "serviceMeunId" :  "HFS4",
+        "serviceMenuNm" :  "나의 자산 순위",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS4",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "자산",
+        "serviceMeunId" :  "HFS5",
+        "serviceMenuNm" :  "대출 진단",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS5",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "자산",
+        "serviceMeunId" :  "HFS6",
+        "serviceMenuNm" :  "월말 리포트",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS6",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "자산",
+        "serviceMeunId" :  "HFS7",
+        "serviceMenuNm" :  "DTI/DSR 시뮬레이션",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS7",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "자산",
+        "serviceMeunId" :  "HFS8",
+        "serviceMenuNm" :  "비활동성 계좌 조회",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS8",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "자산",
+        "serviceMeunId" :  "HFS9",
+        "serviceMenuNm" :  "자동이체 등록정보",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS9",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "투자",
+        "serviceMeunId" :  "HFS10",
+        "serviceMenuNm" :  "내 투자 모아보기",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS10",
+        "serviceMenuTag" : "1"
+    },{
+        "serviceMenuHi" : "투자",
+        "serviceMeunId" :  "HFS11",
+        "serviceMenuNm" :  "거래내역 보러가기",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS11",
+        "serviceMenuTag" : "1"
+    },{
+        "serviceMenuHi" : "투자",
+        "serviceMeunId" :  "HFS12",
+        "serviceMenuNm" :  "배당내역 보러가기",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS12",
+        "serviceMenuTag" : "1"
+    },{
+        "serviceMenuHi" : "투자",
+        "serviceMeunId" :  "HFS13",
+        "serviceMenuNm" :  "주요지수 및 환율 상세",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS13",
+        "serviceMenuTag" : "1"
+    },{
+        "serviceMenuHi" : "투자",
+        "serviceMeunId" :  "HFS14",
+        "serviceMenuNm" :  "투자금손들의 선택",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS14",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "소비",
+        "serviceMeunId" :  "HFS15",
+        "serviceMenuNm" :  "소비",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS15",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "소비",
+        "serviceMeunId" :  "HFS16",
+        "serviceMenuNm" :  "카드 실적 관리",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS16",
+        "serviceMenuTag" : "1"
+    },{
+        "serviceMenuHi" : "소비",
+        "serviceMeunId" :  "HFS17",
+        "serviceMenuNm" :  "이용 내역 조회",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS17",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "소비",
+        "serviceMeunId" :  "HFS18",
+        "serviceMenuNm" :  "고정지출",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS18",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "소비",
+        "serviceMeunId" :  "HFS19",
+        "serviceMenuNm" :  "나의 지출 현황",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS19",
+        "serviceMenuTag" : "1"
+    },{
+        "serviceMenuHi" : "소비",
+        "serviceMeunId" :  "HFS20",
+        "serviceMenuNm" :  "소비리포트",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS20",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "플랜",
+        "serviceMeunId" :  "HFS21",
+        "serviceMenuNm" :  "미래의 나",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS21",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "플랜",
+        "serviceMeunId" :  "HFS22",
+        "serviceMenuNm" :  "소액 모으기",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS22",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS23",
+        "serviceMenuNm" :  "부가서비스 홈",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS23",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS24",
+        "serviceMenuNm" :  "금융캘린더",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS24",
+        "serviceMenuTag" : "1"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS25",
+        "serviceMenuNm" :  "슬기로운 세금생활",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS25",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS26",
+        "serviceMenuNm" :  "신용점수 조회",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS26",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS27",
+        "serviceMenuNm" :  "신용점수 올리기",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS27",
+        "serviceMenuTag" : "1"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS28",
+        "serviceMenuNm" :  "구독 서비스",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS28",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS29",
+        "serviceMenuNm" :  "보험/건강 분석",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS29",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS30",
+        "serviceMenuNm" :  "별별차트",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS30",
+        "serviceMenuTag" : "2"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS31",
+        "serviceMenuNm" :  "활동지수",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS31",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS32",
+        "serviceMenuNm" :  "이벤트",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS32",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "부가서비스",
+        "serviceMeunId" :  "HFS33",
+        "serviceMenuNm" :  "기프트콘 구매/판매",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS33",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "데이터 ・ 설정",
+        "serviceMeunId" :  "HFS34",
+        "serviceMenuNm" :  "내 자산",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS34",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "데이터 ・ 설정",
+        "serviceMeunId" :  "HFS35",
+        "serviceMenuNm" :  "내 정보",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS35",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "데이터 ・ 설정",
+        "serviceMeunId" :  "HFS36",
+        "serviceMenuNm" :  "데이터 등록",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS36",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "데이터 ・ 설정",
+        "serviceMeunId" :  "HFS37",
+        "serviceMenuNm" :  "데이터 관리",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS37",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "데이터 ・ 설정",
+        "serviceMeunId" :  "HFS38",
+        "serviceMenuNm" :  "데이터 영수증",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS38",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "데이터 ・ 설정",
+        "serviceMeunId" :  "HFS39",
+        "serviceMenuNm" :  "정보 제공",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS39",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "데이터 ・ 설정",
+        "serviceMeunId" :  "HFS40",
+        "serviceMenuNm" :  "설정",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS40",
+        "serviceMenuTag" : "0"
+    },{
+        "serviceMenuHi" : "데이터 ・ 설정",
+        "serviceMeunId" :  "HFS41",
+        "serviceMenuNm" :  "마이데이터 가이드",
+        "serviceMenuImg" : "img/",
+        "serviceMenuLink" : "mkd/hfs/HFS41",
+        "serviceMenuTag" : "0"
+    }]
+}

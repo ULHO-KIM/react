@@ -1,0 +1,76 @@
+.fixExpdTopDiv {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 10px 30px 10px;
+}
+
+.fixExpdBottomDiv {
+    padding: 0 10px 5px 10px;
+}
+
+.fixExpdTitle {
+    height: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.SplitDiv {
+    background-color: darkgray;
+    height: 5px;
+}
+
+.ReactTable {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+table {
+    border: 1px solid #ddd;
+    border-spacing: 0;
+    border-radius: 5px;
+  }
+  
+  th {
+    padding: 10px;
+  }
+  
+  table thead th {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table tbody tr td {
+    min-width: 100px;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  table tbody tr td:nth-child(1) {
+    min-width: auto;
+  }
+  
+  table tbody tr:hover {
+    background-color: #ddd;
+    cursor: pointer;
+  }
+  
+  .select_row {
+    background-color: rgb(240, 240, 240);
+  }
+  
+  table tbody tr.disabled_row:hover {
+    background-color: transparent;
+    cursor: default;
+  }
+  
+  .disabled_row {
+    color: rgb(199, 199, 199);
+  }

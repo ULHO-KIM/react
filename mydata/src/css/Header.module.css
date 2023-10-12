@@ -1,0 +1,90 @@
+.headTitle {
+    width: 100%;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+    background-color: darkgray;
+    font-weight: 600;
+}
+
+.hfsHeadTitleDiv {
+    width: 100%;
+    height: 7vh;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+    margin: 0;
+    padding-bottom: 0px;
+}
+
+.hfsHeadTitle {
+    height: 100%;
+    font-size: 15px;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hfsHeadButton {
+    font-size: 25px;
+    background-color:transparent;
+    border: 0px;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media (min-height: 450px) {
+    .hfsHeadTitle {
+        font-size: 25px;
+        font-weight: 500;
+    }
+    .hfsHeadButton {
+        font-size: 25px;
+        background-color:transparent;
+        border: 0px;
+        font-weight: 350;
+    }
+}
+@media (min-height: 480px) {
+    .hfsHeadTitle {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .hfsHeadButton {
+        font-size: 30px;
+        background-color:transparent;
+        border: 0px;
+        font-weight: 400;
+    }
+}
+
+.headItems {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px 0 20px;
+    background-color: darkgray;
+}
+
+.headItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 0px;
+}
+
+.headItemImgDiv {
+    width: 100%;
+    text-align: center;
+}
+
+.headItemImg {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}

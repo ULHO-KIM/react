@@ -1,0 +1,94 @@
+.carSvcTopDiv {
+    height: 45vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px 10px 30px 10px;
+}
+
+.carSvcBottomDiv {
+    height: 40vh;
+    padding: 0 10px 5px 10px;
+}
+
+.carMyCarTitle {
+    height: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.carMyCarDiv {
+    height: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.carMyCarDiv p {
+    margin: 0;
+    padding: 0;
+}
+
+.carSplitCarDiv {
+    background-color: darkgray;
+    height: 5px;
+}
+
+.carPlanListDiv {
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+}
+
+.carPlanCompImg {
+    width: 80px;
+    height: 80px;
+    margin-right: 30px;
+}
+
+.carPlanListInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.carPlanListDiv p {
+    margin-bottom: 0px;
+}
+
+.carMyCarAddBtnDiv {
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.carMyCarAddBtn {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.carPlanCarSearchBtnDiv {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.carPlabCarSearchBtn {
+    width: 90%;
+    padding: 5px;
+    background-color: white;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    font-weight: 650;
+}

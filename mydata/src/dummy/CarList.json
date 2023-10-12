@@ -1,0 +1,26 @@
+[{
+    "CarNum" : "123가1234",
+    "CarType" : "승용",
+    "CarName" : "BMW 6Series GT",
+    "CarOwner" : "김우리"
+}, {
+    "CarNum" : "12가1234",
+    "CarType" : "승용",
+    "CarName" : "Ford Expedition",
+    "CarOwner" : "이우리"
+}, {
+    "CarNum" : "12나1234",
+    "CarType" : "승용",
+    "CarName" : "KIA Morning",
+    "CarOwner" : "최우리"
+}, {
+    "CarNum" : "123나1234",
+    "CarType" : "승용",
+    "CarName" : "HYUNDAI Grandual",
+    "CarOwner" : "박우리"
+}, {
+    "CarNum" : "123아1234",
+    "CarType" : "택시",
+    "CarName" : "MASERATI Ghibli",
+    "CarOwner" : "한우리"
+}]

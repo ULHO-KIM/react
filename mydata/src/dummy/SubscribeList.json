@@ -1,0 +1,28 @@
+{
+    "SubscirbeList" : [{
+        "iconImg" : "img/",
+        "iconType" : "가전",
+        "iconName" : "교원엘스",
+        "iconDesc" : "생활 맞춤 솔루션"
+    }, {
+        "iconImg" : "img/",
+        "iconType" : "교육",
+        "iconName" : "교원 빨간펜",
+        "iconDesc" : "에듀테크 학습 대표"
+    }, {
+        "iconImg" : "img/",
+        "iconType" : "만화/소설",
+        "iconName" : "블라이스",
+        "iconDesc" : "웹소설은 이제 블라이스!"
+    }, {
+        "iconImg" : "img/",
+        "iconType" : "식음료",
+        "iconName" : "프레딧",
+        "iconDesc" : "발효유, 간편식 그리고 생활/라이프 정기주문 선별샵"
+    }, {
+        "iconImg" : "img/",
+        "iconType" : "헬스",
+        "iconName" : "바디프랜드",
+        "iconDesc" : "No.1 헬스케어 그룹 바디프랜드"
+    }]
+}
